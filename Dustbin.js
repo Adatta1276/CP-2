@@ -91,7 +91,7 @@ class D1 {
               //super(x,y,width,height);
               
               
-              this.image = loadImage("iimgs/dustbingreen.png");
+              this.image = loadImage("dustbingreen.png");
               //this.scale = 5;
               
               //World.add(world, this.body);
